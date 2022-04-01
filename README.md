@@ -14,10 +14,10 @@ $ python mail.py
 
 # **Gambar**
 - **Tampilan**
-![Screenshot_2022-04-01-15-18-07-38-picsay](https://user-images.githubusercontent.com/94946818/161235695-1358c7a1-8aa1-4639-811b-b60db45d164c.png)
+![Screenshot_2022-04-01-15-18-07-38-picsay](https://user-images.githubusercontent.com/94946818/161235695-1358c7a1-8aa1-4639-811b-b60db45d164c.png"
 
 - **Use**
-![IMG_20220401_154910](https://user-images.githubusercontent.com/94946818/161235859-165069bb-2b4f-4fff-a586-98221c3ad2dd.jpg)
+<p><align="center" <src="https://user-images.githubusercontent.com/94946818/161235859-165069bb-2b4f-4fff-a586-98221c3ad2dd.jpg)
 
 
 # **Contact Me🔥☕**
