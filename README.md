@@ -12,6 +12,15 @@ $ python mail.py
 # **Catatan:**
 - Script ini 100% gratis, dan perlu diketahui bahwa script ini saya recode dari orang vietnam. Jika anda ingin full source code tanpa enkripsi silahkan chat WhatsApp saya
 
+# **Gambar**
+- **Tampilan**
+- 
+- ![Screenshot_2022-04-01-15-18-07-38-picsay](https://user-images.githubusercontent.com/94946818/161235695-1358c7a1-8aa1-4639-811b-b60db45d164c.png)
+
+- **Use**
+- 
+- ![IMG_20220401_154910](https://user-images.githubusercontent.com/94946818/161235859-165069bb-2b4f-4fff-a586-98221c3ad2dd.jpg)
+
 # **Contact Me🔥☕**
 <p align="left">
 <a href="https://www.github.com/Ruphas-Mafahl-XD"><img height="30" width="40" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></a>
